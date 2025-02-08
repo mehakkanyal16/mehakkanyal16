@@ -2,7 +2,7 @@
 <h3 align="center">👋 Hey there! I'm a CS undergrad @ChitkaraUniversity with a passion for full-stack development and a knack for solving complex problems. I love building interactive web applications, crafting seamless user experiences, and exploring the depths of data structures & algorithms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehakkanyal16&label=Profile%20views&color=0e75b6&style=flat" alt="mehakkanyal16" /> </p>
-<img align="right" alt="coding" width="200" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*hZJV9DjRZW9DJ4XfRwQaIA.png">
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 
 
