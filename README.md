@@ -6,7 +6,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://mehak-kanyal.vercel.app/](https://mehak-kanyal.vercel.app/)
+- 👨‍💻 Check my Portfolio at [https://mehak-kanyal.vercel.app/](https://mehak-kanyal.vercel.app/)
 
 - 📫 How to reach me **mehakkanyal@gmail.com**
 
