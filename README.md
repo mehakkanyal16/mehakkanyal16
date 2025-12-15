@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mehak Kanyal</h1>
-<h3 align="center">👋 Hey there! I'm a CS undergrad @Chitkara University with a passion for full-stack development and a knack for solving complex problems. I love building interactive web applications, crafting seamless user experiences, and exploring the depths of data structures & algorithms</h3>
+<h3 align="center">
+🚀 Upcoming SDE Intern @ Myntra | CS Undergrad @ Chitkara University  
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehakkanyal16&label=Profile%20views&color=0e75b6&style=flat" alt="mehakkanyal16" /> </p>
 <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-- 👨‍💻 Check my Portfolio: **https://mehak-kanyal.vercel.app/**
+- 👩‍💻 **Upcoming SDE Intern @ Myntra**
+- 🎓 **Computer Science Undergrad @ Chitkara University**
 - 📫 Reach me at: **mehakkanyal@gmail.com**
 - ⚡ Fun fact: **I can spend hours debugging a missing semicolon but still forget where I kept my phone! 😅**
 
