@@ -16,11 +16,10 @@ I enjoy building scalable web applications, writing clean backend logic, and sol
 
 ### 👩‍💻 About Me
 - 🚀 **Upcoming SDE Intern @ Myntra**
-- 🎓 **B.Tech CSE @ Chitkara University**
 - 💡 Interested in **Backend Systems, Scalable Web Apps & Problem Solving**
 - 🧠 Actively strengthening **DSA, Core CS & System Design**
 - 📫 Reach me at: **mehakkanyal@gmail.com**
-- ⚡ Fun fact: *I can debug for hours but still forget where I kept my phone 😅*
+
 
 ---
 
