@@ -88,7 +88,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mehakkanyal16&show_icons=true&theme=radical" />
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=mehakkanyal16&show_icons=true&theme=radical" /> -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakkanyal16&layout=compact&theme=radical" />
 </p>
 
